@@ -1,0 +1,61 @@
+*{
+	--green:#8de835;
+	--blue:#0260ba;
+
+}
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@160..700&family=Space+Grotesk&family=Tajawal:wght@200;300;400;500;700;800;900&family=Zain:ital,wght@0,200;0,300;0,400;0,700;0,800;0,900;1,300;1,400&display=swap');
+
+.font{
+    font-family: "Zain", serif;
+}
+.arWrt{
+    direction: rtl;
+    
+}
+.royalLogo{
+    width: 60px;
+    height: 60px;
+    
+}
+
+.whit{
+    color: rgb(232, 237, 241);
+}
+.disImage{
+    width: 300px;
+    height: 300px;
+}
+.bigFont{
+    font-size: large;
+}
+.toLezge{
+    padding-top: 8px;
+    padding-bottom: 25px;
+}
+.btnB{
+    background-color: var(--blue);
+}
+.btnB:hover{
+    background-color: var(--green);
+    color:var(--green);
+}
+
+.bgBlue{
+    background-color: var(--blue);
+}
+.txtBlue{
+    color: var(--blue);
+}
+
+.bgGreen{
+    background-color: var(--green);
+}
+.txtGreen{
+    color: var(--green);
+}
+.notToLezge{
+    margin-bottom: 10px;
+}
+.diplomaT{
+    font-size: medium;
+}
